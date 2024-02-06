@@ -7,7 +7,6 @@ public class prueba {
         return a + b;
     }
 
-
     public int Resta(int a, int b){
         return a - b;
     }
